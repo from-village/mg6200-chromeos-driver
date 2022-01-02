@@ -1,8 +1,6 @@
 # Canon MG6200 Series Driver for Chrome OS
 
-----
-
-This repository contains the printer driver required for printing which correspond to the following printer models
+This repository contains the printer driver required for printing which correspond to the following printer models;
 
 - MG6210
 - MG6220
@@ -11,8 +9,8 @@ This repository contains the printer driver required for printing which correspo
 ## Installation
 
 1. Open Settings -> Printing -> Printers.
-2. Select "Canon MG6200 Series"
-3. Browse and Open .ppd file
+2. Select "Canon MG6200 Series".
+3. Browse and open .ppd file.
 
 ## LICENSE
 
